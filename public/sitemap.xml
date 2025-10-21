@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://fotografie.site/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/opengraph.png</image:loc>
+      <image:title>Ruan Klopper Photography Portfolio</image:title>
+      <image:caption>Professional photographer specializing in product photography, advertising campaigns, portraits, and studio sessions in Pretoria, South Africa</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Portfolio Page -->
+  <url>
+    <loc>https://fotografie.site/portfolio</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Product Photography Images -->
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_L_Castle Lite.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_L_Castle Lite.jpg</image:loc>
+      <image:title>Castle Lite Product Photography</image:title>
+      <image:caption>Professional product photography for Castle Lite brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_L_Perfume.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_L_Perfume.jpg</image:loc>
+      <image:title>Perfume Product Photography</image:title>
+      <image:caption>Professional perfume product photography with cinematic lighting</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_L_Quench18.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_L_Quench18.jpg</image:loc>
+      <image:title>Quench Product Photography</image:title>
+      <image:caption>Professional product photography for Quench brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_P_Atlasware.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_P_Atlasware.jpg</image:loc>
+      <image:title>Atlasware Product Photography</image:title>
+      <image:caption>Professional product photography for Atlasware brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_P_Atlasware12.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_P_Atlasware12.jpg</image:loc>
+      <image:title>Atlasware Product Photography</image:title>
+      <image:caption>Professional product photography for Atlasware brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_P_Illovo.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_P_Illovo.jpg</image:loc>
+      <image:title>Illovo Product Photography</image:title>
+      <image:caption>Professional product photography for Illovo brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_P_Quench14.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_P_Quench14.jpg</image:loc>
+      <image:title>Quench Product Photography</image:title>
+      <image:caption>Professional product photography for Quench brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Product_P_Vinut Boba Iced Tea2.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Product_P_Vinut Boba Iced Tea2.jpg</image:loc>
+      <image:title>Vinut Boba Iced Tea Product Photography</image:title>
+      <image:caption>Professional product photography for Vinut Boba Iced Tea brand</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Advertising Photography Images -->
+  <url>
+    <loc>https://fotografie.site/showcase_images/Advertising_L_Sports Equipment4.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Advertising_L_Sports Equipment4.jpg</image:loc>
+      <image:title>Sports Equipment Advertising Photography</image:title>
+      <image:caption>Professional advertising photography for sports equipment brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Advertising_L_Sports Equipment8.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Advertising_L_Sports Equipment8.jpg</image:loc>
+      <image:title>Sports Equipment Advertising Photography</image:title>
+      <image:caption>Professional advertising photography for sports equipment brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Advertising_P_Dog Toys4.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Advertising_P_Dog Toys4.jpg</image:loc>
+      <image:title>Dog Toys Advertising Photography</image:title>
+      <image:caption>Professional advertising photography for dog toys brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Advertising_P_Sports Equipment6.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Advertising_P_Sports Equipment6.jpg</image:loc>
+      <image:title>Sports Equipment Advertising Photography</image:title>
+      <image:caption>Professional advertising photography for sports equipment brand</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Fashion Photography Images -->
+  <url>
+    <loc>https://fotografie.site/showcase_images/Fashion_L_Matheo Men18.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Fashion_L_Matheo Men18.jpg</image:loc>
+      <image:title>Matheo Men Fashion Photography</image:title>
+      <image:caption>Professional fashion photography for Matheo Men brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Fashion_L_Matheo Men19.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Fashion_L_Matheo Men19.jpg</image:loc>
+      <image:title>Matheo Men Fashion Photography</image:title>
+      <image:caption>Professional fashion photography for Matheo Men brand</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://fotografie.site/showcase_images/Fashion_P_Matheo Men11.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Fashion_P_Matheo Men11.jpg</image:loc>
+      <image:title>Matheo Men Fashion Photography</image:title>
+      <image:caption>Professional fashion photography for Matheo Men brand</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Portrait Photography Images -->
+  <url>
+    <loc>https://fotografie.site/showcase_images/Couple_P_Fulu2.jpg</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fotografie.site/showcase_images/Couple_P_Fulu2.jpg</image:loc>
+      <image:title>Couple Portrait Photography</image:title>
+      <image:caption>Professional couple portrait photography session</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
